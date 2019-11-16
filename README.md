@@ -7,4 +7,4 @@ Python script (jupyter notebook) for English parallelism identification (includi
 Python script (jupyter notebook) for English parallelism identification (final version) for Mac as well as Windows system
 Guide about how to use the python script to identify parallelisms for other texts
 
-The paper which delivers the detailed information about the methods, parameter settings, performance and error analysis etc. of this parallelism identification python script
+The paper "A Machine Learning Approach to Identify Textual Parallel Structure" delivers the detailed information about the methods, parameter settings, performance and error analysis etc. of this parallelism identification python script
