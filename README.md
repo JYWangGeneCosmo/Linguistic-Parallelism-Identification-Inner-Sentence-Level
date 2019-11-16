@@ -1,5 +1,11 @@
 #                                     linguistic-parallelism-identification
-This project tries to apply machine learning methods to identify English inner-sentence level parallel structures.
+
+In this project, a classifier is trained based on machine learning methods to identify the following 4 types of inner-sentence level parallelism in texts.
+• type 1: …A cc B…e.g. Yet every so often, the oath is taken amidst gathering clouds and raging storms. (Obama, 2009)
+• type 2: …A, B… e.g. Homes have been lost, jobs shed, businesses shuttered. (Obama, 2009)
+• type 3: …A cc B cc C… e.g. Americans are generous and strong and decent… (Bush, 2001)
+• type 4: …A, B (,) cc C…: e.g. A new national pride will stir our souls, lift our sights, and heal our divisions. (Trump, 2017)
+* Note: "cc" refers to coordinating words, namely "while (as in conj.)" or part of a paired conjunction, e.g. "not only… but also…"; "or…"; A, B, C refer to the parallel elements with similar grammatical structures.
 
 ### Description of the files in the repository of linguistic-parallelism-identification
 
