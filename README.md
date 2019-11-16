@@ -1,4 +1,4 @@
-### linguistic-parallelism-identification
+#                                     linguistic-parallelism-identification
 This project tries to apply machine learning methods to identify English inner-sentence level parallel structures.
 
 ### Description of the files in the repository of linguistic-parallelism-identification
