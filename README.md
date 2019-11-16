@@ -9,5 +9,5 @@ This project tries to apply machine learning methods to identify English inner-s
 
 - How_to_use_parallelism_identifier.pdf: contains detailed information (guide) about how to use the python script to identify parallelisms for other texts.
 
-- Parallelism_Identifier.zip: contains 2 Python scripts (jupyter notebook) for English parallelism identification (final version) for both Mac and Windows system; Training data (3 American Inaugural Speeches).
+- Parallelism_Identifier.zip: contains 2 Python scripts (jupyter notebook) for English parallelism identification (final version) for both Mac and Windows system; Training data (3 American Inaugural Speeches) and test data (2 TED talks).
 
