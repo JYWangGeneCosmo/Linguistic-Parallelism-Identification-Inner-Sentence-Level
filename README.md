@@ -1,6 +1,6 @@
 #                                     linguistic-parallelism-identification
 
-In this project, a classifier is trained based on machine learning methods to identify the following 4 types of inner-sentence level parallelism in texts. (A sister project about inter-sentence level parallelism please see: )
+In this project, a classifier is trained based on machine learning methods to identify the following 4 types of inner-sentence level parallelism in texts. (A sister project about inter-sentence level parallelism please see: https://github.com/JYWangGeneCosmo/linguistic-parallelism-identification-inter-sentence-level )
 
 • type 1: …A cc B… e.g. Yet every so often, the oath is taken amidst [gathering clouds and raging storms]. (Obama, 2009)
 
